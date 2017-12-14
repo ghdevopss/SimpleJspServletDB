@@ -6,13 +6,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Show All Users - In Screen</title>
+<title>Show All Users</title>
 </head>
 <body>
     <table border=1>
         <thead>
             <tr>
-                <th>User Id</th>
+                <th>USER ID</th>
                 <th>First Name</th>
                 <th>Last Name</th>
                 <th>DOB</th>
