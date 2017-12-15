@@ -13,7 +13,7 @@
         <thead>
             <tr>
                 <th>USER ID</th>
-                <th>FIRST NAME</th>
+                <th>First NAME</th>
                 <th>LAST NAME</th>
                 <th>DOB</th>
                 <th>Email</th>
