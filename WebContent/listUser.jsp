@@ -14,7 +14,7 @@
             <tr>
                 <th>USER ID</th>
                 <th>FIRST NAME</th>
-                <th>Last Name</th>
+                <th>LAST NAME</th>
                 <th>DOB</th>
                 <th>Email</th>
                 <th colspan=2>Action</th>
