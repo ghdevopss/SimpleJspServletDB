@@ -49,7 +49,7 @@ public class UserController extends HttpServlet {
         RequestDispatcher view = request.getRequestDispatcher(forward);
         view.forward(request, response);
     }
-
+    //added comment for doPost method
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         User user = new User();
         user.setFirstName(request.getParameter("firstName"));
