@@ -24,7 +24,7 @@ public class UserController extends HttpServlet {
         super();
         dao = new UserDao();
     }
-
+    //added comment for testing before doGet
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String forward="";
         String action = request.getParameter("action");
