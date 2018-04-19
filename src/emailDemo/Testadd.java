@@ -1,11 +1,10 @@
 package emailDemo;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 import junit.framework.Assert;
 
+@SuppressWarnings("deprecation")
 public class Testadd {
 
 	@Test
