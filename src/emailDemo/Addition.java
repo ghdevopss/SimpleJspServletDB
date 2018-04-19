@@ -12,7 +12,7 @@ public class Addition {
 	}
 	
 	
-	public int addition()
+	public int add()
 	{
 		return a+b;
 	}
@@ -20,7 +20,7 @@ public class Addition {
 
 	public static void main(String[] args) {
 		Addition sum = new Addition(2,3);
-		System.out.println("output of addition "+sum.addition());
+		System.out.println("output of addition "+sum.add());
 	
 
 	}

@@ -13,7 +13,7 @@ public class Testadd {
 	{
 		Addition obj=new Addition(3,5);
 		System.out.println("inside this method");
-		Assert.assertEquals(8,obj.addition());
+		Assert.assertEquals(8,obj.add());
 	}
 
 }
